@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+  <Operation Class="PatchOperationAdd">
+    <xpath>Defs/BodyDef[defName="MechanicalCentipede" or defName="Lancer" or defName="Pikeman" or defName="Scyther" or defName="MechanicalTermite" or defName="AIRobot"]</xpath>
+    <value>
+      <ignoreConfigErrors>true</ignoreConfigErrors>
+    </value>
+  </Operation>
+</Patch>

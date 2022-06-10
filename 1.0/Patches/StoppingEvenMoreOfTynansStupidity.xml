@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+  <Operation Class="PatchOperationAdd">
+    <xpath>Defs/BodyDef[defName="MechanicalCentipede"]</xpath>
+    <value>
+      <ignoreConfigErrors>true</ignoreConfigErrors>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationAdd">
+    <xpath>Defs/BodyDef[defName="Lancer"]</xpath>
+    <value>
+      <ignoreConfigErrors>true</ignoreConfigErrors>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationAdd">
+    <xpath>Defs/BodyDef[defName="Scyther"]</xpath>
+    <value>
+      <ignoreConfigErrors>true</ignoreConfigErrors>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationSequence">
+    <success>Always</success>
+    <operations>
+      <li Class="PatchOperationTest">
+        <xpath>/Defs/BodyDef[defName="AIRobot"]/ignoreConfigErrors</xpath>
+        <success>Invert</success>
+      </li>
+      <li Class="PatchOperationAdd">
+        <xpath>/Defs/BodyDef[defName="AIRobot"]</xpath>
+        <value>
+          <ignoreConfigErrors>true</ignoreConfigErrors>
+        </value>
+      </li>
+    </operations>
+  </Operation>
+</Patch>

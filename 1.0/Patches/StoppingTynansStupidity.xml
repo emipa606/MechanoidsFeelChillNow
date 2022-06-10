@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/BodyPartDef[defName="SightSensor"]/frostbiteVulnerability</xpath>
+    <value>
+      <frostbiteVulnerability>0</frostbiteVulnerability>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/BodyPartDef[defName="HearingSensor"]/frostbiteVulnerability</xpath>
+    <value>
+      <frostbiteVulnerability>0</frostbiteVulnerability>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/BodyPartDef[defName="SmellSensor"]/frostbiteVulnerability</xpath>
+    <value>
+      <frostbiteVulnerability>0</frostbiteVulnerability>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/BodyPartDef[defName="MechanicalFinger"]/frostbiteVulnerability</xpath>
+    <value>
+      <frostbiteVulnerability>0</frostbiteVulnerability>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/BodyPartDef[defName="MechanicalFoot"]/frostbiteVulnerability</xpath>
+    <value>
+      <frostbiteVulnerability>0</frostbiteVulnerability>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/BodyPartDef[defName="Blade"]/frostbiteVulnerability</xpath>
+    <value>
+      <frostbiteVulnerability>0</frostbiteVulnerability>
+    </value>
+  </Operation>
+</Patch>
