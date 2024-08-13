@@ -1,7 +1,7 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <Patch>
   <Operation Class="PatchOperationAdd">
-    <xpath>Defs/BodyDef[defName="MechanicalCentipede" or defName="Lancer" or defName="Pikeman" or defName="Scyther" or defName="MechanicalTermite" or defName="AIRobot" or defName="Scorcher" or defName="Apocriton" or defName="Mech_Diabolus" or defName="Mech_Centurion" or defName="Mech_Warqueen"]</xpath>
+    <xpath>Defs/BodyDef[defName="MechanicalCentipede" or defName="Lancer" or defName="Pikeman" or defName="Scyther" or defName="MechanicalTermite" or defName="AIRobot" or defName="Scorcher" or defName="Apocriton" or defName="Mech_Diabolus" or defName="Mech_Centurion" or defName="AM_Assembler" or defName="Mech_Warqueen" or defName="AM_Mech_Guttersnipe" or defName="AM_SlurrypedeBody" or defName="AM_DaggerSnoutBody" or defName="AM_DemolisherBody" or defName="AM_SiegebreakerBody" or defName="AA_Assembler" or defName="AA_SlurrypedeBody" or defName="AA_DaggerSnoutBody" or defName="AA_DemolisherBody" or defName="AA_SiegebreakerBody" or defName="VFEP_Wardrone" or defName="VFEP_Spidermine"]</xpath>
     <value>
       <ignoreConfigErrors>true</ignoreConfigErrors>
     </value>
