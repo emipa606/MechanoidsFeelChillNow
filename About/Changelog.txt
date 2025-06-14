@@ -1,5 +1,8 @@
 # Changelog for MechanoidsFeelChillNow
 
+1.6.0 - Mod updated for 1.6 and passed autotests
+
+
 1.5.1 - Fixed warnings about frostbite for Alpha Animals, Alpha Mechs and VFE Mechs
 
 

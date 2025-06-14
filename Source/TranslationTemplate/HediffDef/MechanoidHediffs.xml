@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: broke down -->
+  <BrokenDown.label>broke down</BrokenDown.label>
+  <!-- EN: broke down -->
+  <BrokenDown.description>broke down</BrokenDown.description>
+  <!-- EN: fried -->
+  <FriedPart.label>fried</FriedPart.label>
+  <!-- EN: fried -->
+  <FriedPart.description>fried</FriedPart.description>
+  <!-- EN: freezing -->
+  <MechanoidFreeze.label>freezing</MechanoidFreeze.label>
+  <!-- EN: freezing -->
+  <MechanoidFreeze.description>freezing</MechanoidFreeze.description>
+  <!-- EN: minor -->
+  <MechanoidFreeze.stages.minor-0.label>minor</MechanoidFreeze.stages.minor-0.label>
+  <!-- EN: minor -->
+  <MechanoidFreeze.stages.minor-1.label>minor</MechanoidFreeze.stages.minor-1.label>
+  <!-- EN: serious -->
+  <MechanoidFreeze.stages.serious.label>serious</MechanoidFreeze.stages.serious.label>
+  <!-- EN: extreme -->
+  <MechanoidFreeze.stages.extreme.label>extreme</MechanoidFreeze.stages.extreme.label>
+  <!-- EN: overheating -->
+  <MechanoidOverheat.label>overheating</MechanoidOverheat.label>
+  <!-- EN: overheating -->
+  <MechanoidOverheat.description>overheating</MechanoidOverheat.description>
+  <!-- EN: initial -->
+  <MechanoidOverheat.stages.initial.label>initial</MechanoidOverheat.stages.initial.label>
+  <!-- EN: minor -->
+  <MechanoidOverheat.stages.minor.label>minor</MechanoidOverheat.stages.minor.label>
+  <!-- EN: serious -->
+  <MechanoidOverheat.stages.serious.label>serious</MechanoidOverheat.stages.serious.label>
+  <!-- EN: extreme -->
+  <MechanoidOverheat.stages.extreme.label>extreme</MechanoidOverheat.stages.extreme.label>
+</LanguageData>
