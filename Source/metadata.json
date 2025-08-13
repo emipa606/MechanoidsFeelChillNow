@@ -4,9 +4,15 @@
   "CanRemove": "0",
   "PreviewVersion": "1.6",
   "SocialImageSet": true,
-  "LastXmlCleaning": "2025-06-14T21:46:38.653181+02:00",
+  "LastXmlCleaning": "2025-08-13T18:45:02.8762988+02:00",
   "SearchTags": [
     " mechanoid",
     " temperature"
-  ]
+  ],
+  "Patches": true,
+  "Defs": true,
+  "Assemblies": false,
+  "LinesOfCode": 0,
+  "LinesOfXML": 11773,
+  "CodeBaseSize": 64
 }
