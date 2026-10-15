@@ -1,5 +1,8 @@
 # Changelog for MechanoidsFeelChillNow
 
+1.7.0 - Mod updated for 1.7 and passed autotests
+
+
 1.6.1 - Added support for [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2558957509]Caravan Adventures[/url]
 
 
